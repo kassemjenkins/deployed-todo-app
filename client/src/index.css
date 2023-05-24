@@ -174,7 +174,7 @@ input {
 
 .auth-container {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     margin: 5px;
 }
 
@@ -188,7 +188,7 @@ input {
 .auth-container-box form {
     display: flex;
     flex-direction: column;
-    height: 305px;
+    height: 350px;
     padding: 20px;
 }
 
